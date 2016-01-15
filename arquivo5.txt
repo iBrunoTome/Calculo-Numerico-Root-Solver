@@ -1,0 +1,15 @@
+c Título do polinômio
+d P(x) = x^3 -9x + 3
+c Iterações
+m 50
+c limite inf
+l 0
+c limite sup
+u 0.5
+c Erro aceitável na terceira casa decimal
+e 0.001
+c Grau do polinômio
+n 3
+c Lista de coeficientes do tipo a_i, separados por espaço
+a 1.0 0.0 -9.0 3.0
+

@@ -1,0 +1,14 @@
+c Título do polinômio
+d P(x) = 3x^4 + 2x^3 - (1/2)x - 2
+c Iterações
+m 50
+c limite inf
+l -1.5
+c limite sup
+u -0.5
+c Erro aceitável na terceira casa decimal
+e 0.001
+c Grau do polinômio
+n 4
+c Lista de coeficientes do tipo a_i, separados por espaço
+a 3.0 2.0 0.0 -0.5 -2.0
