@@ -15,4 +15,4 @@ Abra o Terminal e digite:
 - gcc root-solver.c -oroot-solver.bin
 - ./root-solver.bin <ARQUIVO ENTRADA.TXT> <ARQUIVO SAIDA.HTML>
 
-No windows, você pode rodar via netbeans ou se tiver um terminal batch basta seguir os comandos acima.
+No windows, você pode rodar via netbeans ou se tiver um terminal basta seguir os comandos acima.
